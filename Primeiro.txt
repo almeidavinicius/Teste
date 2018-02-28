@@ -1,1 +1,2 @@
 primeiro
+testando o git diff sem argumentos
